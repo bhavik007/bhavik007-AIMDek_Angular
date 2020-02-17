@@ -1,0 +1,11 @@
+<app-header></app-header>
+<div class="content">
+    <div class="gallery" id="gallery">
+
+        <div class="mb-3 pics animation all 2" *ngFor="let photo of photos">
+            <img class="img-fluid" src="{{photo.url}}"
+                alt="Card image cap">
+        </div>
+
+    </div>
+</div>

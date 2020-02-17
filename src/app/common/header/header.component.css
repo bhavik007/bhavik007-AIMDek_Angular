@@ -1,0 +1,60 @@
+.navbar-light .navbar-toggler {
+  color: #FFFFFF;
+  border-color: #FFFFFF;
+}
+
+  .nav-tab-link {
+    border-bottom: 1px solid whitesmoke
+}
+
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link {
+    color: #FFFFFF
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #EFEFEF;
+}
+
+navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #f2f2f2
+}
+
+.download-button {
+    color: #EFEFEF;
+    border-color: #EFEFEF;
+}
+
+.nav-item {
+    margin-left: 15px;
+}
+
+.navbar-light .navbar-brand {
+    color: #FFFFFF
+}
+
+.btn-outline-secondary {
+  color: #EFEFEF;
+  background-color: transparent;
+  background-image: none;
+  border-color: #EFEFEF;
+}
+
+.btn-outline-secondary:hover {
+  color: #8BC34A;
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+
+
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+  color: #f2f2f2
+}
+
+.nav-link {
+  border: none;
+}
